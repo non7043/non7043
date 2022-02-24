@@ -30,8 +30,8 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+<a align="right" href="https://app.daily.dev/non7043"><img src="https://api.daily.dev/devcards/0351604b3ca94e748fd02a035c211ec0.png?r=s8v" width="400" alt="Abebe Tesfaye's Dev Card"/></a>
 <p>
-  <a align="right" href="https://app.daily.dev/non7043"><img src="https://api.daily.dev/devcards/0351604b3ca94e748fd02a035c211ec0.png?r=s8v" width="400" alt="Abebe Tesfaye's Dev Card"/></a>
   <code><img title="C" height="25" src="src/C.png"></code>
   <code><img title="C++" height="25" src="src/cpp.png"></code>
   <code><img title="C#" height="25" src="src/c-sharp.png"></code>
