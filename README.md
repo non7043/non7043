@@ -1,5 +1,5 @@
 
-<a align="right" href="https://app.daily.dev/non7043"><img src="https://api.daily.dev/devcards/0351604b3ca94e748fd02a035c211ec0.png?r=s8v" width="400" alt="Abebe Tesfaye's Dev Card"/></a>
+<!-- <a align="right" href="https://app.daily.dev/non7043"><img src="https://api.daily.dev/devcards/0351604b3ca94e748fd02a035c211ec0.png?r=s8v" width="400" alt="Abebe Tesfaye's Dev Card"/></a> -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=non7043.non7043">
 
 <h1 align="center">
