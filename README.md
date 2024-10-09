@@ -13,7 +13,7 @@
   <code><a href="https://www.hackerrank.com/non7043" title="HackerRank Profile"><img width="22" src="src/hackerrank_icon.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/jahabmarley/" title="Instagram Profile"><img width="22" src="src/instagram (1).png"> Instagram</a></code>
 </h5>
-<a href="https://app.daily.dev/non7043"><img align="right" height="250" width="375" alt="" 
+<a href="https://app.daily.dev/non7043"><img align="right"  alt="" 
  src="https://api.daily.dev/devcards/v2/tcNgOIoUfLvvIo0WBGlmy.png?r=vea&type=default" width="356" alt="Abebe Tesfaye's Dev Card"/></a>
 <br>
 <p align="center">
