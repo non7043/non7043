@@ -1,5 +1,4 @@
 
-<a href="https://app.daily.dev/non7043"><img src="https://api.daily.dev/devcards/v2/tcNgOIoUfLvvIo0WBGlmy.png?r=vea&type=default" width="356" alt="Abebe Tesfaye's Dev Card"/></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=non7043.non7043">
 
 <h1 align="center">
@@ -14,10 +13,11 @@
   <code><a href="https://www.hackerrank.com/non7043" title="HackerRank Profile"><img width="22" src="src/hackerrank_icon.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/jahabmarley/" title="Instagram Profile"><img width="22" src="src/instagram (1).png"> Instagram</a></code>
 </h5>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/non7043/non7043/main/gifs/coder.gif" />
+<a href="https://app.daily.dev/non7043"><img align="right" height="250" width="375" alt="" 
+ src="https://api.daily.dev/devcards/v2/tcNgOIoUfLvvIo0WBGlmy.png?r=vea&type=default" width="356" alt="Abebe Tesfaye's Dev Card"/></a>
 <br>
 <p align="center">
-  Hi, I'm Abebe Tesfaye, Computer Engineer & Software Developer from Ethiopia
+  Hi, I'm Abebe Tesfaye, Computer  & Software Developer from Ethiopia
   <br>
   <br>
   🔬 I'm currently studying for a Software Engineer at ALX
